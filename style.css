@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 50px 100px;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    margin: 10px;
+}
+img{
+    display: block;
+    width: 70%;
+    height: auto;
+    margin: 0 auto;
+}
+p{
+    text-align: justify;
+    font-size: 20px;
+}
+.palette{
+    text-align: right;
+}
+.switcher{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border: 2px solid grey;
+    border-radius: 50%;
+    cursor: pointer;
+}
+#white{
+    background-color: white;
+}
+#pink{
+    background-color: #ec3686;
+}
+#purple{
+    background-color: #5b0892;
+}
+#black{
+    background-color: black;
+}
